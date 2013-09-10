@@ -12,3 +12,5 @@ don't forget install thrift
 A.Nikulin
 2anikulin@gmail.com
 
+http://habrahabr.ru/post/179235/
+
