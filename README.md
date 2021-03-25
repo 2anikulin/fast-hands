@@ -7,7 +7,7 @@ C++ implementation
 build:
 g++ -DHAVE_INTTYPES_H -DHAVE_NETINET_IN_H -Wall -I/usr/local/include/thrift *.cpp -L/usr/local/lib -lthrift -lthriftnb -levent -o something
 
-don't forget install thrift
+don't forget to install Thrift
 
 A.Nikulin
 2anikulin@gmail.com
